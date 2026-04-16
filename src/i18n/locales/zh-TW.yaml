@@ -99,7 +99,7 @@ flow_detail: "更糟的是：這整個流程完全依賴 <strong>Google Play 服
 # Precedent
 precedent_heading: "這不只是 Android 的問題"
 precedent_pullquote: "如果 Google 能對數十億台以「開放平台」之名銷售的裝置追溯性封鎖，全球每一家硬體製造商都在盯著這一幕。"
-precedent_p1: "此舉確立了一個原則：<strong>製造你裝置的公司，有權在你購買之後，決定你能執行哪些軟體。</strong>在軟體界，這叫做「撤地毯」……"
+precedent_p1: "此舉確立了一個原則：<strong>製造你裝置的公司，有權在你購買之後，決定你能執行哪些軟體。</strong>在軟體界，這叫做 \"rug pull\"……"
 precedent_p2: "Android 的開放性從來不只是一項功能，它是使其有別於 iPhone 的<em>承諾</em>。數百萬人正是基於這個理由選擇了 Android。Google 現在正單方面撤回這個承諾……"
 precedent_arstechnica: "<a href=\"https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/\" target=\"_blank\">Ars Technica &#8599;</a>：<em>「Google……」</em>"
 
